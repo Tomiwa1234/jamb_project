@@ -7,8 +7,10 @@ environment:
   sdk: ^3.13.2
 
 dependencies:
+  crypto: ^3.0.7
   flutter:
     sdk: flutter
+  shared_preferences: ^2.5.5
 
 dev_dependencies:
   flutter_test:
